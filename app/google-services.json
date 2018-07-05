@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "366607904181",
+    "firebase_url": "https://qmfirebaseproject.firebaseio.com",
+    "project_id": "qmfirebaseproject",
+    "storage_bucket": "qmfirebaseproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366607904181:android:20b42b33775af1f4",
+        "android_client_info": {
+          "package_name": "batuhan.qm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366607904181-g3uk16tdimuqpf06pigi62e9p89uj9q5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "batuhan.qm",
+            "certificate_hash": "d7c249cb2d0186952e485a47de2ff9471e93cb43"
+          }
+        },
+        {
+          "client_id": "366607904181-bb38b24k16rmn6bmj4r7rn1je8796uqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-53eOXhx8BytgnFm5YASWwAhcvfgKhNE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366607904181-bb38b24k16rmn6bmj4r7rn1je8796uqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
